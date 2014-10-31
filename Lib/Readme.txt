@@ -1,1 +1,1 @@
-This is folder for sharing lib file.
+This folder is for sharing lib files.

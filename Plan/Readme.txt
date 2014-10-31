@@ -1,1 +1,1 @@
-Place file of plan
+Place planning files here, please.
