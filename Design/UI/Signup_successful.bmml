@@ -1,0 +1,46 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1253" measuredH="449" mockupW="913" mockupH="422">
+  <controls>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="340" y="27" w="686" h="422" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Canvas" x="340" y="99" w="685" h="324" measuredW="100" measuredH="70" zOrder="1" locked="true" isInGroup="-1"/>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Image" x="397" y="114" w="128" h="107" measuredW="256" measuredH="256" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../../../good-or-tick.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Label" x="548" y="149" w="305" h="-1" measuredW="130" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u606D%u559C%uFF01%u60A8%u5DF2%u7ECF%u6CE8%u518C%u6210%u529F</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Label" x="550" y="187" w="264" h="-1" measuredW="216" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>7%u79D2%u949F%u540E%u7F51%u9875%u5C06%u4F1A%u81EA%u52A8%u8DF3%u8F6C%u5230%u4F1A%u5458%u4E2D%u5FC3</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Label" x="548" y="238" w="226" h="-1" measuredW="221" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u5982%u679C%u7F51%u9875%u6CA1%u6709%u81EA%u52A8%u8DF3%u8F6C%uFF0C%u8BF7%u70B9%u4EE5%u4E0B%u94FE%u63A5</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Link" x="782" y="239" w="-1" h="-1" measuredW="38" measuredH="19" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>http%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Arrow" x="770" y="193" w="284" h="10" measuredW="150" measuredH="100" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Label" x="1077" y="185" w="176" h="-1" measuredW="169" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u7F51%u9875%u81EA%u52A8%u8DF3%u8F6C%u5230%u4F1A%u5458%u4E2D%u5FC3%u754C%u9762</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
